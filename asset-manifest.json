@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Magnificent/static/css/main.a9c8e48d.css",
-    "main.js": "/Magnificent/static/js/main.3ed36fd2.js",
-    "index.html": "/Magnificent/index.html",
-    "main.a9c8e48d.css.map": "/Magnificent/static/css/main.a9c8e48d.css.map",
-    "main.3ed36fd2.js.map": "/Magnificent/static/js/main.3ed36fd2.js.map"
+    "main.css": "/static/css/main.a9c8e48d.css",
+    "main.js": "/static/js/main.d591b3df.js",
+    "index.html": "/index.html",
+    "main.a9c8e48d.css.map": "/static/css/main.a9c8e48d.css.map",
+    "main.d591b3df.js.map": "/static/js/main.d591b3df.js.map"
   },
   "entrypoints": [
     "static/css/main.a9c8e48d.css",
-    "static/js/main.3ed36fd2.js"
+    "static/js/main.d591b3df.js"
   ]
 }
